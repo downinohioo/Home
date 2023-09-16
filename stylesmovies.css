@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+h1{
+    font-family: 'Dangrek', cursive;
+}
+.movies{
+    text-align: center;
+}
